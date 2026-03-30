@@ -1,5 +1,3 @@
-Screenshots
-
 # Gamified Note Taking App
 
 A gamified web-based note taking app built with the PERN Stack.
